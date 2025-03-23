@@ -1,65 +1,25 @@
-# Git_Hub_zhu_ye
+## 个人主页
 
-[周艳秋]
-================================
+好看的个人主页，个人主页源码，博客主页模板.**🉑️随意使用，无限制。**
 
-> I never expected this to become popular.
+预览地址：[https://wexuo.github.io/home](https://wexuo.github.io/home)
 
+## 集成插件
 
+- [x] [typed 打字机特效](https://github.com/mattboldt/typed.js/)
+- [x] [Aplayer 音乐播放插件](https://github.com/MoePlayer/APlayer)
+- [x] [Meting 强大的 Aplayer 辅助插件](https://github.com/metowolf/MetingJS)
+- [x] [不蒜子计数](http://busuanzi.ibruce.info/)
+- [x] [看板娘](https://github.com/stevenjoezhang/live2d-widget)
 
+## 集成API
 
-[User Manual 👉](_doc/Manual.md)
---------------------------------------------------
+- [x] [一言](https://hitokoto.cn/)
+- [x] [今日诗词](https://www.jinrishici.com/)
+- [x] [随机图片](https://api.ixiaowai.cn/api/api.php) 
 
-### Getting Started
+## 好玩的
 
-1. You will need [Ruby](https://www.ruby-lang.org/en/) and [Bundler](https://bundler.io/) to use [Jekyll](https://jekyllrb.com/). Following [Using Jekyll with Bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/) to fullfill the enviromental requirement.
-
-2. Installed dependencies in the `Gemfile`:
-
-```sh
-$ bundle install 
-```
-
-3. Serve the website (`localhost:4000` by default):
-
-```sh
-$ bundle exec jekyll serve  # alternatively, npm start
-```
-
-### Development (Build From Source)
-
-To modify the theme, you will need [Grunt](https://gruntjs.com/). There are numbers of tasks you can find in the `Gruntfile.js`, includes minifing JavaScript, compiling `.less` to `.css`, adding banners to keep the Apache 2.0 license intact, watching for changes, etc. 
-
-Yes, they were inherited and are extremely old-fashioned. There is no modularization and transpilation, etc.
-
-Critical Jekyll-related code are located in `_include/` and `_layouts/`. Most of them are [Liquid](https://github.com/Shopify/liquid/wiki) templates.
-
-This theme uses the default code syntax highlighter of jekyll, [Rouge](http://rouge.jneen.net/), which is compatible with Pygments theme so just pick any pygments theme css (e.g. from [here](http://jwarby.github.io/jekyll-pygments-themes/languages/javascript.html) and replace the content of `highlight.less`.
-
-
-### Interesting to know more? Checkout the [full user manual](_doc/Manual.md)!
-
-
-Other Resources
----------------
-
-Ports
-- [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
-- [**React-SSR**](https://github.com/LucasIcarus/huxpro.github.io/tree/ssr) by @LucasIcarus
-
-[Starter/Boilerplate](https://github.com/huxpro/huxblog-boilerplate)
-- Out of date. Helps wanted for updating it on par with the main repo
-
-Translation
-- [🇨🇳  中文文档（有点过时）](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
-
-
-License
--------
-
-Apache License 2.0.
-Copyright (c) 2015-present Huxpro
-
-Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
-Copyright (c) 2013-2016 Blackrock Digital LLC.
+- [x] 点击冒点
+- [x] 雪花
+- [x] 搞怪标题栏 
